@@ -7,7 +7,7 @@ function App() {
     <div>
       <C01componente/>
       Hola mundo desde react...
-      
+      <i class="medium material-icons">insert_chart</i>
     </div>
   );
 }
