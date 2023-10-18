@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vivi151001/react2.git/static/css/main.073c9b0a.css",
-    "main.js": "/vivi151001/react2.git/static/js/main.59ba3692.js",
-    "static/js/787.cc4e593a.chunk.js": "/vivi151001/react2.git/static/js/787.cc4e593a.chunk.js",
-    "static/media/logo.svg": "/vivi151001/react2.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/vivi151001/react2.git/index.html",
-    "main.073c9b0a.css.map": "/vivi151001/react2.git/static/css/main.073c9b0a.css.map",
-    "main.59ba3692.js.map": "/vivi151001/react2.git/static/js/main.59ba3692.js.map",
-    "787.cc4e593a.chunk.js.map": "/vivi151001/react2.git/static/js/787.cc4e593a.chunk.js.map"
+    "main.css": "/vivi151001/react02.git/static/css/main.073c9b0a.css",
+    "main.js": "/vivi151001/react02.git/static/js/main.1e73de17.js",
+    "static/js/787.cc4e593a.chunk.js": "/vivi151001/react02.git/static/js/787.cc4e593a.chunk.js",
+    "static/media/logo.svg": "/vivi151001/react02.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vivi151001/react02.git/index.html",
+    "main.073c9b0a.css.map": "/vivi151001/react02.git/static/css/main.073c9b0a.css.map",
+    "main.1e73de17.js.map": "/vivi151001/react02.git/static/js/main.1e73de17.js.map",
+    "787.cc4e593a.chunk.js.map": "/vivi151001/react02.git/static/js/787.cc4e593a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.59ba3692.js"
+    "static/js/main.1e73de17.js"
   ]
 }
